@@ -4,4 +4,4 @@ This project has been developed while attending the <a href="https://www.udemy.c
 
 The main goal of this project was to position all the elements with the CSS Flexbox feature. This webpage is also responsive.
 
-Check the implemented website <a href="https://pavodev.github.io/natours">here</a> !
+Check the implemented website <a href="https://pavodev.github.io/trillo/">here</a> !
